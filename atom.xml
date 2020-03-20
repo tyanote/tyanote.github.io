@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tyanote.github.io</id>
     <title>天吖</title>
-    <updated>2020-03-20T13:47:48.813Z</updated>
+    <updated>2020-03-20T14:16:06.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tyanote.github.io"/>
     <link rel="self" href="https://tyanote.github.io/atom.xml"/>
-    <subtitle>快乐生活，认真工作</subtitle>
+    <subtitle>温故而知新</subtitle>
     <logo>https://tyanote.github.io/images/avatar.png</logo>
     <icon>https://tyanote.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 天吖</rights>
@@ -16,7 +16,10 @@
         <link href="https://tyanote.github.io/post/ce-shi/">
         </link>
         <updated>2020-03-20T12:22:37.000Z</updated>
-        <content type="html"><![CDATA[<p>怎以弄啊</p>
+        <summary type="html"><![CDATA[<p>怎以弄啊，这就是效果图，上传太慢了</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>怎以弄啊，这就是效果图，上传太慢了</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
