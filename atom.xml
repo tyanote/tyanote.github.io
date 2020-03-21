@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tyanote.github.io</id>
     <title>天吖</title>
-    <updated>2020-03-21T08:52:55.350Z</updated>
+    <updated>2020-03-21T09:04:18.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tyanote.github.io"/>
     <link rel="self" href="https://tyanote.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://tyanote.github.io/images/avatar.png</logo>
     <icon>https://tyanote.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 天吖</rights>
+    <entry>
+        <title type="html"><![CDATA[github+gridea连结成功]]></title>
+        <id>https://tyanote.github.io/post/githubgridea-lian-jie-cheng-gong/</id>
+        <link href="https://tyanote.github.io/post/githubgridea-lian-jie-cheng-gong/">
+        </link>
+        <updated>2020-03-21T08:54:07.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://tyanote.github.io/post-images/1584781415309.jpg" alt="" loading="lazy"><br>
+对于英语和代码一窍不通的我来说，这真的是一件很兴奋的事。<br>
+按照教程一步一步操作，不懂的英文的地方在线翻译。经过两个多少小时的奋战，连结成功。<br>
+不过网站的打开速度，实在是太慢了。有时传输数据也不成功。总的来说这个gridea是一个不太成熟的博客程序。或者对于普通小白不是很合适。</p>
+<p>模版简洁，在归档里不能再分文集，这是比较遗憾的地方。但是用来耍酷还是可以的，以后有时间再慢慢研究。这也是一个很大的进步了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://tyanote.github.io/post/hello-gridea/</id>
